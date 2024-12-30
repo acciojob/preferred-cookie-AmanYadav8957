@@ -6,6 +6,4 @@
 body {  
     font-size: var(--fontsize);  
     color: var(--fontcolor);  
-    padding: 20px;  
-    transition: font-size 0.3s, color 0.3s; /* Smooth transition for changes */  
 }
